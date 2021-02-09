@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/58374190/107286858-6ee7f780-6a61-11eb-853f-8b95b3e822b1.png)
 
-# Implement a design
+# 0x09. Implement a design from scratch
 
 ### Web Stack programming
 
 ___________________________________________________________________________________________________________________________________________________________
-Figma will be your friend!
+[Figma](https://www.figma.com/) will be your friend!
 
 During these projects, you won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web pages that look the same as the designer file.
 
