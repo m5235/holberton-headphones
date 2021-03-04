@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+![image](https://user-images.githubusercontent.com/58374190/107502240-b91fc480-6b98-11eb-842e-75bfb01f0264.png)
+
+>>>>>>> 77caf3096e619f0b462bd88be57c20d31eda74cc
 # 0x09. Implement a design from scratch
 
 ### Web Stack programming
