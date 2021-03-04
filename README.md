@@ -1,8 +1,10 @@
-![image](https://user-images.githubusercontent.com/58374190/107286858-6ee7f780-6a61-11eb-853f-8b95b3e822b1.png)
-
 # 0x09. Implement a design from scratch
 
 ### Web Stack programming
+
+![image](https://user-images.githubusercontent.com/58374190/107286858-6ee7f780-6a61-11eb-853f-8b95b3e822b1.png)
+
+
 
 ___________________________________________________________________________________________________________________________________________________________
 [Figma](https://www.figma.com/) will be your friend!
